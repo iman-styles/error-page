@@ -1,5 +1,5 @@
 @function error-url($path) {
-  @return url("../components/error-page/assets/#{$path}");
+  @return url("../components/iman-styles-error-page/assets/#{$path}");
 }
 
 .error-page {
